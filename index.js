@@ -8,3 +8,6 @@ function sayName(name){
 function sayAge(age){
     console.log("My Age is ", age);
 }
+function sayDob(dob){
+    console.log("My DOB is ", dob);
+}
